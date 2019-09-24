@@ -131,7 +131,7 @@ services:
     ports:
         - 8081:80
     volumes:
-        - ${PWD}/nginx-config/:/etc/nginx/conf.d/
+        - ./nginx/config/:/etc/nginx/conf.d/
     command: /bin/bash -c "nginx -g 'daemon off;'"
     ulimits:
       nproc: 65535
