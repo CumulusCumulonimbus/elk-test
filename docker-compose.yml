@@ -136,7 +136,7 @@ volumes:
     driver: local
   esdata4:
     driver: local
-  filebeat
+  logs:
     driver: local
 
 
