@@ -101,7 +101,6 @@ services:
       - "9000:9000"
     volumes:
       - logs:/usr/share/filebeat
-      - 
     networks:
       - esnet
     links:
@@ -136,6 +135,8 @@ volumes:
   esdata3:
     driver: local
   esdata4:
+    driver: local
+  filebeat
     driver: local
 
 
