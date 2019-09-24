@@ -97,6 +97,9 @@ services:
     image: docker.elastic.co/beats/filebeat:6.3.2
     container_name: filebeat
     command: filebeat -e -strict.perms=false
+    environment:
+      - setup.kibana.host=kibana:5601
+      - output.elasticsearch.hosts=["elasticsearch:9200"]
     ports:
       - "9000:9000"
     volumes:
