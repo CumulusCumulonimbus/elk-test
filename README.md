@@ -8,7 +8,7 @@ optional add to /etc/hosts :
 run with  : 
 sudo docker-compose up -d 
 
-          <h1>Styling</h1>
+         <p> <h1>Styling</h1></p>
           <p>This is the Markdown styling used in this book. If you plan to contribute, please use it.</p>
 
         <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
