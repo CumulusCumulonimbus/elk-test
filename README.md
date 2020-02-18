@@ -17,6 +17,7 @@ sudo docker-compose up -d
         </div>
 
         <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+        </div>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 
