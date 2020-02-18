@@ -8,14 +8,10 @@ optional add to /etc/hosts :
 run with  : 
 sudo docker-compose up -d 
 
-    <div class="wrapper">
-        <div id="title">
           <h1>Styling</h1>
           <p>This is the Markdown styling used in this book. If you plan to contribute, please use it.</p>
-        </div><div>
 
         <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
-        </div>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 
