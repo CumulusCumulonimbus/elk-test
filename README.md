@@ -8,10 +8,9 @@ optional add to /etc/hosts :
 run with  : 
 sudo docker-compose up -d 
 
-         <p> <h1>Styling</h1></p>
-          <p>This is the Markdown styling used in this book. If you plan to contribute, please use it.</p>
-
-        <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+<p> <h1>Styling</h1></p>
+<p>This is the Markdown styling used in this book. If you plan to contribute, please use it.</p>
+<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 
