@@ -8,42 +8,6 @@ optional add to /etc/hosts :
 run with  : 
 sudo docker-compose up -d 
 
-
-
-
-<!doctype html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Midnight theme | Midnight is a theme for GitHub Pages.</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Midnight theme" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Midnight is a theme for GitHub Pages." />
-<meta property="og:description" content="Midnight is a theme for GitHub Pages." />
-<link rel="canonical" href="https://pages-themes.github.io/midnight/" />
-<meta property="og:url" content="https://pages-themes.github.io/midnight/" />
-<meta property="og:site_name" content="Midnight theme" />
-<script type="application/ld+json">
-{"@type":"WebSite","url":"https://pages-themes.github.io/midnight/","name":"Midnight theme","description":"Midnight is a theme for GitHub Pages.","headline":"Midnight theme","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/midnight/assets/css/style.css?v=b1d65216c39e1cb350e6309b09630d3befa1147c">
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="/midnight/assets/js/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="/midnight/assets/css/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-  </head>
-  <body>
       <div id="header">
         <nav>
           <li class="fork"><a href="https://github.com/pages-themes/midnight">View On GitHub</a></li>
@@ -59,11 +23,8 @@ sudo docker-compose up -d
 
       <section>
         <div id="title">
-          <h1>Midnight theme</h1>
-          <p>Midnight is a theme for GitHub Pages.</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/pages-themes">pages-themes</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <h1>Styling</h1>
+          <p>This is the Markdown styling used in this book. If you plan to contribute, please use it.</p>
         </div>
 
         <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
@@ -234,8 +195,3 @@ sudo docker-compose up -d
       </section>
 
     </div>
-
-    
-  </body>
-</html>
-
