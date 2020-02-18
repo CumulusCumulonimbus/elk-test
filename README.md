@@ -173,8 +173,3 @@ sudo docker-compose up -d
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
 </code></pre></div></div>
-
-
-      </section>
-
-    </div>
