@@ -1,6 +1,4 @@
 # elk-test
-<center>elk test</center> 
-
 
 optional add to /etc/hosts :
 127.0.0.1 elasticsearch 
@@ -8,7 +6,7 @@ optional add to /etc/hosts :
 run with  : 
 sudo docker-compose up -d 
 
-<p><center><h1>Styling</h1></center></p>
+<p><h1>#Styling</h1></p>
 <p>This is the Markdown styling used in this book. If you plan to contribute, please use it.</p>
 <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
