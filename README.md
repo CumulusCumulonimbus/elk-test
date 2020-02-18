@@ -1,4 +1,4 @@
-<center>#ELK-test</center>
+<div id="title">#ELK-test</div>
 
 optional add to /etc/hosts :
 127.0.0.1 elasticsearch 
